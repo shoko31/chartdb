@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.4.0](https://github.com/chartdb/chartdb/compare/v1.3.1...v1.4.0) (2024-11-28)
+
+
+### Features
+
+* **add templates:** add six more templates  ([#452](https://github.com/chartdb/chartdb/issues/452)) ([be1b109](https://github.com/chartdb/chartdb/commit/be1b109f23e62df4cc63fa8914c2754f7809cc08))
+* **add templates:** add six more templates (reversion, screeenly, staytus, deployer, devise, talk) ([#457](https://github.com/chartdb/chartdb/issues/457)) ([ddeef3b](https://github.com/chartdb/chartdb/commit/ddeef3b134efa893e1c1e15e2f87c27157200e2d))
+* **side-panel:** Add functionality of order tables by drag & drop ([#425](https://github.com/chartdb/chartdb/issues/425)) ([a0e966b](https://github.com/chartdb/chartdb/commit/a0e966b64f8070d4595d47b2fb39e8bbf427b794))
+
+
+### Bug Fixes
+
+* **import-database:** update database type after importing into an existing generic diagra ([#456](https://github.com/chartdb/chartdb/issues/456)) ([a8fe491](https://github.com/chartdb/chartdb/commit/a8fe491c1b5a30d9f4144cefa9111dd3dfd5df1a))
+* **Last Saved:** Translate the "last saved" relative date message ([#400](https://github.com/chartdb/chartdb/issues/400)) ([d45677e](https://github.com/chartdb/chartdb/commit/d45677e92d72efc6cea8f865ce46f0be6ec9961f))
+* window type ([#454](https://github.com/chartdb/chartdb/issues/454)) ([9c7d03c](https://github.com/chartdb/chartdb/commit/9c7d03c285ff6f818eef3199c9b7a530d03a1fec))
+
 ## [1.3.1](https://github.com/chartdb/chartdb/compare/v1.3.0...v1.3.1) (2024-11-26)
 
 
